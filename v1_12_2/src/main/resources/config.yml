@@ -1,0 +1,15 @@
+Settings:
+  prefix: "&f[ &6엔더창고 &f] "
+
+  title: "&1<player> 님의 엔더 창고 입니다."
+  DefaultSlot: 27
+  MaxPages: 10
+
+  Coupon:
+    Material: PAPER
+    displayName: "&a엔더창고 &b<slot>칸 &a확장권"
+    lore:
+      - "&f"
+      - "&6우클릭시 사용"
+  # 모든 엔더상자 타입의 인벤토리가 열릴경우 해당 플러그인의 엔더상자로 강제로 대체합니다.
+  preventDefaultEnderChest: true
