@@ -1,9 +1,9 @@
-name: DP-LegendaryEnderChest
-version: 1.0.0.1
-main: com.darksoldier1404.dlec.LegendaryEnderChest
+name: LP-LegendaryEnderChest
+version: 1.0.0.2
+main: com.licker2689.llec.LegendaryEnderChest
 authors: [ DEAD_POOLIO_ ]
 depend:
-  - DPP-Core
+  - LP-Core
 commands:
-  엔더창고:
-    aliases: [dlec]
+  �뿏�뜑李쎄퀬:
+    aliases: [llec]

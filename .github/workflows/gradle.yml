@@ -1,4 +1,4 @@
-name: DP-LegendaryEnderChest
+name: LP-LegendaryEnderChest
 on:
   push:
 jobs:
